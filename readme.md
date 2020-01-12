@@ -38,8 +38,11 @@ The app runs using **puppeteer** to recursively scrape from google translate.
 
 ### Installation
 `git clone https://github.com/BillyNoGoat/Google-translate-pinyin.git`
+
 `cd Google-translate-pinyin`
+
 `npm i` will install dependencies (puppeteer)
+
 To run the app run `node app.js`
 
 ### Setup
