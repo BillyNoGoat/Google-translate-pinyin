@@ -1,0 +1,14 @@
+{
+  "name": "no-proxy",
+  "version": "1.0.0",
+  "description": "A tool to scrape segmented pinyin from google translate from Chinese characters.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
